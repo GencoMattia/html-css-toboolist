@@ -65,6 +65,9 @@ body {
             font-size: 2rem;
         }
     }
+    .grey-button {
+        border: 1px solid black;
+    }
 
     main {
         .list-layout {
@@ -78,12 +81,7 @@ body {
             margin-right: 1rem;
             border: 0;
             border-radius: 5px;
-            font-weight: bold;
-            .grey-button {
-                border-width: 5rem
-                border-style: solid;
-                border-color: black;
-            }
+            font-weight: bold;         
         }
         ul {
             list-style-type: none;
