@@ -48,6 +48,13 @@ body {
     padding: .5rem;
     background-color: white;
 }
+ul {
+    list-style-type: none;
+    margin-bottom: 2rem;
+}
+p {
+    margin-top: 1rem;
+}
 .grey-button {
     border-width: 5rem
     border-style: solid;
@@ -64,6 +71,9 @@ body {
 }
 .font-white {
     color: white;
+}
+.font-medium {
+    font-size: medium;
 }
 .low-opacity {
     opacity: 0.2;
