@@ -30,6 +30,10 @@ body {
         }
     }
 
+    main {
+        
+    }
+
     
 }
 
@@ -60,14 +64,15 @@ p {
     border-style: solid;
     border-color: black;
 }
+.triangledown {
+    font-size: larger;
+    vertical-align: middle;
+}
 
 /* Font General Class */
 
 .font-bolder {
     font-weight: 800;
-}
-.bg-blue {
-    background-color: #47adf1;
 }
 .font-white {
     color: white;
@@ -77,4 +82,24 @@ p {
 }
 .low-opacity {
     opacity: 0.2;
+}
+
+/* bg colors */
+.bg-blue {
+    background-color: #47adf1;
+}
+.bg-purple {
+    background-color: #9c72e4;
+}
+.bg-green {
+    background-color: #63bfa8;
+}
+.bg-orange {
+    background-color: #f29e33
+}
+.bg-pink {
+    background-color: #d863a1;
+}
+.bg-salad {
+    background-color: #b0c926;
 }
